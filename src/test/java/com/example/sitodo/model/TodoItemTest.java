@@ -3,7 +3,7 @@ package com.example.sitodo.model;
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertNotEquals;
 
 @Tag("unit")
 class TodoItemTest {

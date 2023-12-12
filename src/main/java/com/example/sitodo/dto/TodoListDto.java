@@ -1,7 +1,5 @@
 package com.example.sitodo.dto;
 
-import java.util.List;
-
 public record TodoListDto(Long id, List<TodoItemDto> items) {
 
     public Long countTotal() {
