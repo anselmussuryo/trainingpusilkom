@@ -20,8 +20,9 @@
 		<encoding>UTF-8</encoding>
 		<java.version>17</java.version>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.organization></sonar.organization>
-		<sonar.projectKey></sonar.projectKey>
+		<sonar.organization>anselmussuryo</sonar.organization>
+		<sonar.projectKey>anselmussuryo_trainingpusilkom</sonar.projectKey>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<sonar-maven-plugin.version>3.9.1.2184</sonar-maven-plugin.version>
 		<!-- Serenity & Cucumber-related configuration properties -->
 		<serenity.version>4.0.27</serenity.version>
